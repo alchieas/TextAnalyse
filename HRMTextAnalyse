@@ -154,6 +154,7 @@ public class TextAnalyse { // Class
 					+ "\"Is...\"\r\n"
 					+ "\"Yes...!!!...?\"\r\n"
 					+ "\"Forty`two,\" said Deep Thought, with infinite majesty and calm."); // Kreirung des Objects Textanalyse 
+					
 			a.charCount(a); // Es zählt wie oft welcher Buchstaben vorkommt, Buchstaben, welche nicht vorkommen sollen nicht erscheinen.
 			System.out.println("-----------"); // Zwecks Übersicht auf Konsole
 			a.countLowerAndUpperChar(a); // Es zählt wie viele Gross -und wie viele Kleinbuchstaben vorhanden sind
